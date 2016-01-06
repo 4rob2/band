@@ -1,0 +1,16 @@
+.shows {
+  width: 30%;
+  height: 2000px;
+  float: left;
+  background-color: lightblue;
+
+}
+.mire .column  {width: 30%;
+margin: auto;}
+
+.mid {width: 30%;
+margin: auto;}
+.pic {
+  width: 30%;
+  float: right;
+}
